@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="R18" Build_date="9/19/2022 9:23:52 PM">
+  <Files>
+    <Directory Path="C:\Users\null\AppData\Local\Steam\steamapps\common\Cyberpunk 2077\mods">
+      <Directory Path="C:\Users\null\AppData\Local\Steam\steamapps\common\Cyberpunk 2077\mods\R18">
+        <file>C:\Users\null\AppData\Local\Steam\steamapps\common\Cyberpunk 2077\mods\R18\info.json</file>
+        <Directory Path="C:\Users\null\AppData\Local\Steam\steamapps\common\Cyberpunk 2077\mods\R18\archives">
+          <file>C:\Users\null\AppData\Local\Steam\steamapps\common\Cyberpunk 2077\mods\R18\archives\R18.archive</file>
+        </Directory>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>
